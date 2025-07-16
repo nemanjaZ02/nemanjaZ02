@@ -49,7 +49,12 @@
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </details>
 
 
