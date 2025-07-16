@@ -1,8 +1,16 @@
 ## ⚙️ About Me 
 - Final-Year Student  of **Computer Science** at the **Faculty of Technical Sciences, University of Novi Sad**
 - Interested in **Software Engeeniring**, **Web Development**, **Game Development** and **Artificial Intelligence**
-## 🛠️ Technical Skills
 
+## 📊 My GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemanjaZ02&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nemanjaZ02&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=8)
+
+<details>
+  <summary>📚 Read More (click to expand)</summary>
+
+## 🛠️ Technical Skills
 ### 💻 Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,9 +48,8 @@
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-212121?style=for-the-badge&logo=postgresql&logoColor=6699cc)
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📊 My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemanjaZ02&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nemanjaZ02&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=8)
+## 🐍 My Contribution Snake
+![snake gif](https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake.svg)
+</details>
 
 
