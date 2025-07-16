@@ -5,7 +5,7 @@
 ## 📊 My GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemanjaZ02&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nemanjaZ02&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=2)
 
 <details>
   <summary>📚 Read More (click to expand)</summary>
