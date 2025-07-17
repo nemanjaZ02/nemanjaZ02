@@ -8,7 +8,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=2)
 
 <details>
-  <summary>📚 Read More (click to expand)</summary>
+  <summary>
+    <h2>📚 Read More (click to expand)</h2>
+  </summary> 
 
 ## 🛠️ Technical Skills
 ### 💻 Languages & Scripting
