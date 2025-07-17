@@ -3,9 +3,21 @@
 - Interested in **Software Engeeniring**, **Web Development**, **Game Development** and **Artificial Intelligence**
 
 ## 📊 My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemanjaZ02&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nemanjaZ02&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=2)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemanjaZ02&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemanjaZ02&theme=default" />
+  <img alt="GitHub Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemanjaZ02&theme=tokyonight" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nemanjaZ02&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nemanjaZ02&theme=default" />
+  <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nemanjaZ02&theme=tokyonight" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=2" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=default&utcOffset=2" />
+  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nemanjaZ02&theme=tokyonight&utcOffset=2" />
+</picture>
 
 <details>
   <summary>
