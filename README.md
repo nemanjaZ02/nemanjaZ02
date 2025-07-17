@@ -1,5 +1,5 @@
 ## ⚙️ About Me 
-- Final-Year Student  of **Computer Science** at the **Faculty of Technical Sciences, University of Novi Sad**
+- Final-Year Student of **Computer Science** at the **Faculty of Technical Sciences, University of Novi Sad**
 - Interested in **Software Engeeniring**, **Web Development**, **Game Development** and **Artificial Intelligence**
 
 ## 📊 My GitHub Stats
@@ -51,6 +51,7 @@
 ## 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nemanjaZ02/nemanjaZ02/main/output/github-contribution-grid-snake.svg" />
 </picture>
 
