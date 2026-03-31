@@ -1,5 +1,6 @@
 ## ⚙️ About Me 
-- Final-Year Student of **Computer Science** at the **Faculty of Technical Sciences, University of Novi Sad**
+- Graduate Engineer of Electrical Engineering and Computer Science
+- Master’s Student in Video Game Development, Faculty of Technical Sciences, University of Novi Sad
 - Interested in **Software Engeeniring**, **Web Development**, **Game Development** and **Artificial Intelligence**
 
 ## 📊 My GitHub Stats
